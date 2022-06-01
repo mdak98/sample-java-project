@@ -1,4 +1,4 @@
-// JavaScript source code
+
 pipeline {
 	agent any
 	stages {
